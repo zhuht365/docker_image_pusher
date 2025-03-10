@@ -6,4 +6,5 @@
 #platform=linux/arm64 xiaoyaliu/alist
 #python:alpine3.19
 #docker.getcollate.io/openmetadata/db:1.6.5
-docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+docker.getcollate.io/openmetadata/server:1.6.5
